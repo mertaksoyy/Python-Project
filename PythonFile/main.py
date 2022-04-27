@@ -1,4 +1,4 @@
-"""Write a Python script that reads the “sequence.txt” you downloaded from oys.baskent.edu.tr.
+"""Write a Python script that reads the “sequence.txt”.
 In the file each line represents a DNA sequence or an RNA sequence. According to the sequence
 type, the program must write the sequence to the “dna.txt” or “rna.txt” file.
 Define a function that takes a sequence as a parameter. The function must return “DNA” or
